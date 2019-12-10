@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zhy的博客</title>
-    <link>http://example.org/</link>
+    <link>https://zhy533726735220.github.io/zhy53372673520.github.io/</link>
     <description>Recent content on zhy的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2019 16:52:43 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhy533726735220.github.io/zhy53372673520.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/posts/test/</link>
+      <link>https://zhy533726735220.github.io/zhy53372673520.github.io/posts/test/</link>
       <pubDate>Tue, 10 Dec 2019 16:52:43 +0800</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
+      <guid>https://zhy533726735220.github.io/zhy53372673520.github.io/posts/test/</guid>
       <description>Test </description>
     </item>
     
